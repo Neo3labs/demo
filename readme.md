@@ -1,9 +1,4 @@
-# Readme 2
+# Readme Title
 
-hello world 
+This is test branch
 
-## second title
-
-sample commit
-
-update from the new branch
